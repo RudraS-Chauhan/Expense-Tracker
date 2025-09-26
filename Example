@@ -1,0 +1,13 @@
+--- Elite Expense Tracker ---
+1. Add Expense
+2. View All Expenses
+3. View by Category
+4. Show Total + Budget Status
+5. Show Biggest Expense
+6. Exit
+Enter choice: 1
+
+Enter expense name: Pizza
+Enter amount (INR): 350
+Enter category (Food, Travel, Shopping, Bills, Others): Food
+✅ Expense Added: Pizza - 350 (Food)
